@@ -1,4 +1,4 @@
-<p align="center"><img src="https://user-images.githubusercontent.com/96705270/209911110-d7028abe-33ee-47c1-93ae-b308de8ec458.png" width="400" /></p>
+<p align="center"><img src="https://user-images.githubusercontent.com/96705270/209912003-7c2c769a-50bc-4e9e-b2c2-4b404125b0bc.png" width="300" /></p>
 
 For a better visual experience, go here: [icarus website](https://icarus-game.web.app/)
 
